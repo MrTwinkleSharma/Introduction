@@ -1,0 +1,89 @@
+body{
+   background: linear-gradient(45deg , #CCFFFF ,#FFCCCC ,#B3FBB7,#FF81FE,#8689FF,#FF939B,#FFB5BF);
+margin:20px 16px 20px;   
+}
+h1{
+	background-color: lightpink;
+    border-radius: 10px;
+    box-shadow: 25px 11px 10px 8px lightgreen;
+    text-align: center;
+    position: sticky;
+    top:0px;
+  }
+
+#title{
+    font-family:cursive;
+    font-style: oblique;
+    font-size:2em;
+    color:blue;
+    background-color:yellow;
+    text-align: center;
+}
+#img-caption{
+    font-family: cursive;
+    font-size: 25px;
+    font-style: oblique;
+
+}
+
+#image {
+  max-width: 100%;
+  width: 27%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.box{
+	background-color: white;
+	border-radius: 10px;
+	font-style: oblique;
+	font-family: sans-serif;
+	font-size:1.9em;
+	text-align: center;
+}
+.tittle1 {
+    color:coral;
+    font-family: serif;
+    font-size: 35px;
+    text-align: center;
+    border-style: ridge;
+    background: linear-gradient(50deg, #CCFFFF ,#FFCCCC ,lightgreen);   
+}
+#tribute-info{
+    font-size: 40px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    
+}
+#tribute-link{
+    font-family:cursive;
+    font-style: oblique;
+    font-size:2em;
+    color:blue;
+    background-color:yellow;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#imgql{
+    float: right;
+    border-style: ridge;
+    border-color: blue;
+    border-radius: 5px;
+    width: 100px;
+    height: 120px;
+}
+span{
+    background-color: gray;
+    font-family: cursive;
+    font-size: 1.2em;
+    font-style: italic;
+}
